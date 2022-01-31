@@ -1,0 +1,13 @@
+mcim
+
+b: set breakpoint on target process
+l: switch to process view 
+m: switch to memory view
+o: open executable
+p: switch to tty output view
+s: restart process
+
+options:
+
+-n: start without initial process
+-t: log tty output to file
